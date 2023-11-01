@@ -11,13 +11,28 @@
             "id": "b5dd5621c1fff77f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Study/5.Semester/Images/Pasted image 20231026113336.png"
+                "file": "Notes/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b70ead39a26862d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/5.Semester/Images/Pasted image 20231026113336.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/5.Semester/Images/Pasted image 20231026113336.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/5.Semester/Images/Pasted image 20231026113336.png"
+                "file": "README.md"
               }
             }
           },
@@ -172,10 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4de3e0f3fb4ddd90",
+  "active": "b70ead39a26862d9",
   "lastOpenFiles": [
-    "Study/5.Semester/Images/Pasted image 20231026142530.png",
+    "Notes/Git.md",
+    "README.md",
     "Study/5.Semester/Images/Pasted image 20231026113336.png",
+    "Study/5.Semester/Images/Pasted image 20231026142530.png",
     "Study/5.Semester/Images/Pasted image 20231026114055.png",
     "Study/5.Semester/ETMBED/DesignOpgave/BFP420 Amp.md",
     "Study/5.Semester/Images/Pasted image 20231029203328.png",
@@ -196,7 +213,6 @@
     "Study/6.Semester/Bsc/ADC.md",
     "Study/6.Semester/Bsc/SAR_Converters.md",
     "Study/6.Semester/Bsc/AD.md",
-    "Notes/Git.md",
     "Study/6.Semester/imgs",
     "Study/6.Semester/Bsc",
     "Study/6.Semester",
