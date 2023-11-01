@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Study/3. Semester/Vector Analysis\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Study/General Notes/Calculus\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Study/3. Semester/Digital Electronics\"",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
+      }
+    },
+    {
+      "query": "path:\"Study/3. Semester/Signals and Systems\"",
+      "color": {
+        "a": 1,
+        "rgb": 5847295
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.21488764044944,
+  "lineSizeMultiplier": 1.325,
+  "collapse-forces": true,
+  "centerStrength": 0.401685393258427,
+  "repelStrength": 13.5393258426966,
+  "linkStrength": 1,
+  "linkDistance": 404,
+  "scale": 0.3823010968770192,
+  "close": true
+}

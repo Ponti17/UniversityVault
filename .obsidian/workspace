@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "29c672dbe4b110c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed40cdf8c461e23",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Study/3. Semester/Vector Analysis/Surface Integrals.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77f8492d6270886a",
+    "type": "split",
+    "children": [
+      {
+        "id": "756bcf87924df878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de3e0f3fb4ddd90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4358ad2617a2a18c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad4719a9230e147c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d5bc427c86660eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1116e0b8d8d9631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a201d339aa55e2af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study/3. Semester/Vector Analysis/Surface Integrals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2a848777ff3eacb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study/3. Semester/Vector Analysis/Surface Integrals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75c285d694285ae4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23445a94880e2a91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Study/3. Semester/Vector Analysis/Surface Integrals.md"
+              }
+            }
+          },
+          {
+            "id": "c84943a684341dd7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4de3e0f3fb4ddd90",
+  "lastOpenFiles": [
+    "Study/3. Semester/Vector Analysis/1. Index - Vector Analysis.md",
+    "Study/3. Semester/Vector Analysis/Surface Integrals.md",
+    "Study/3. Semester/Vector Analysis/Parametric Surfaces.md",
+    "Study/General Notes/Calculus/Parametric Equations and Curves.md",
+    "Study/3. Semester/Vector Analysis/Conservative Vector Fields.md",
+    "Study/3. Semester/Vector Analysis/Curl and Divergence.md",
+    "Study/3. Semester/Vector Analysis/Greens Theorem.md",
+    "Study/3. Semester/Vector Analysis/Vector Algebra.md",
+    "Study/3. Semester/Vector Analysis/Line Integrals Pt. 2.md",
+    "Study/3. Semester/Vector Analysis/Line Integrals Pt. 1.md"
+  ]
+}

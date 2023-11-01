@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "29c672dbe4b110c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "099327393a5ba394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5dd5621c1fff77f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Study/5.Semester/Images/Pasted image 20231026113336.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77f8492d6270886a",
+    "type": "split",
+    "children": [
+      {
+        "id": "756bcf87924df878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de3e0f3fb4ddd90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4358ad2617a2a18c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad4719a9230e147c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b7a2527d9a1fbd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "d5bc427c86660eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1116e0b8d8d9631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a201d339aa55e2af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study/5.Semester/Images/Pasted image 20231026113336.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2a848777ff3eacb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study/5.Semester/Images/Pasted image 20231026113336.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75c285d694285ae4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23445a94880e2a91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Study/5.Semester/Images/Pasted image 20231026113336.png"
+              }
+            }
+          },
+          {
+            "id": "c84943a684341dd7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "241bcc780e030e7c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4de3e0f3fb4ddd90",
+  "lastOpenFiles": [
+    "Study/5.Semester/Images/Pasted image 20231026142530.png",
+    "Study/5.Semester/Images/Pasted image 20231026113336.png",
+    "Study/5.Semester/Images/Pasted image 20231026114055.png",
+    "Study/5.Semester/ETMBED/DesignOpgave/BFP420 Amp.md",
+    "Study/5.Semester/Images/Pasted image 20231029203328.png",
+    "Study/5.Semester/Images/Pasted image 20231029203400.png",
+    "Pasted image 20231029203400.png~RF5cd16a7c.TMP",
+    "Study/5.Semester/ETMBED/Microwave Amplifiers/Amplifier Basics.md",
+    "Study/5.Semester/ETMBED/Microwave Amplifiers/Stability.md",
+    "Study/5.Semester/ETMBED/DesignOpgave",
+    "Study/5.Semester/Images/Pasted image 20231026083050.png",
+    "Study/5.Semester/ETMBED/Smith Chart Matching.md",
+    "Study/5.Semester/Images/Pasted image 20231026110632.png",
+    "Study/5.Semester/Images/Pasted image 20231026110619.png",
+    "Study/5.Semester/Images/Pasted image 20231026105529.png",
+    "Study/5.Semester/Images/Pasted image 20231026104946.png",
+    "Study/5.Semester/Integrated Circuits/Common Source.md",
+    "Study/5.Semester/Integrated Circuits/Op-Amp.md",
+    "Study/5.Semester/Integrated Circuits/Small Signal Models.md",
+    "Study/6.Semester/Bsc/ADC.md",
+    "Study/6.Semester/Bsc/SAR_Converters.md",
+    "Study/6.Semester/Bsc/AD.md",
+    "Notes/Git.md",
+    "Study/6.Semester/imgs",
+    "Study/6.Semester/Bsc",
+    "Study/6.Semester",
+    "Study/5.Semester/ETMBED/Smith Chart.md",
+    "Study/5.Semester/ETMBED/Propagation, Impedance and Reflection.md",
+    "DIY/The Wolverine/The Wolverine Amp.md",
+    "Study/5.Semester/ETMBED/Impedance Transformation.md",
+    "Study/5.Semester/ETMBED/Transmissionslinjer.md",
+    "Study/5.Semester/ETMBED/Microwave Amplifiers",
+    "DIY/The Wolverine/Transistor Choice.md",
+    "Study/5.Semester/Semiconductor Physics and Devices/Parameters.md",
+    "Study/5.Semester/Semiconductor Physics and Devices",
+    "Study/5.Semester/ETMBED/Mikrostrip.md",
+    "Study/5.Semester/Integrated Circuits",
+    "To Do.md",
+    "DIY/Torpedo III/Output CCS.md",
+    "Study/5.Semester/ETMBED/Opgaver/Opgave 1.md",
+    "DIY/GoldenReference PSU/GRLV.md",
+    "Study/5. Semester/ETMBED/Opgaver/Untitled",
+    "Study/5.Semester/ETMBED/Opgaver",
+    "DIY/CFA3/CFA3 Amplifier.md",
+    "DIY/Bottlehead Crack/Notes.md"
+  ]
+}

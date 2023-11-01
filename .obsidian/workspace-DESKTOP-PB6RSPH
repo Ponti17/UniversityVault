@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "29c672dbe4b110c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab32a2f5c2d7ef2f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3. Semester/Digital Electronics/CMOS Implementation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77f8492d6270886a",
+    "type": "split",
+    "children": [
+      {
+        "id": "756bcf87924df878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de3e0f3fb4ddd90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4358ad2617a2a18c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad4719a9230e147c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5bc427c86660eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1116e0b8d8d9631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a201d339aa55e2af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Semester/Digital Electronics/CMOS Implementation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2a848777ff3eacb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Semester/Digital Electronics/CMOS Implementation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75c285d694285ae4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23445a94880e2a91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Semester/Digital Electronics/CMOS Implementation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab32a2f5c2d7ef2f",
+  "lastOpenFiles": [
+    "Digital Electronics.md",
+    "3. Semester.md"
+  ]
+}

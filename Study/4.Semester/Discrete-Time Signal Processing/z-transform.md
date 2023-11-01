@@ -1,0 +1,1 @@
+The z-transform is the discrete-time version of the Laplace transform. It is used to analyze discrete-time systems.
