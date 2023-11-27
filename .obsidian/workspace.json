@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "099327393a5ba394",
+        "id": "7230904306789395",
         "type": "tabs",
         "children": [
           {
-            "id": "b5dd5621c1fff77f",
+            "id": "983dae20809331b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b70ead39a26862d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5bc427c86660eeb",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md"
               }
             }
           },
@@ -169,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,53 +175,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b70ead39a26862d9",
+  "active": "983dae20809331b2",
   "lastOpenFiles": [
-    "Notes/Git.md",
+    "Study/5.Semester/Images/Pasted image 20231127122827.png",
+    "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
+    "Study/5.Semester/Integrated Circuits/Feedback/Feedback General.md",
+    "Study/5.Semester/Integrated Circuits/Feedback",
+    "Study/5.Semester/Images/Pasted image 20231127145339.png",
+    "Study/5.Semester/Images/Pasted image 20231127143931.png",
+    "Study/5.Semester/Images/Pasted image 20231127143713.png",
+    "Study/5.Semester/Images/Pasted image 20231127143515.png",
+    "Study/5.Semester/Images/Pasted image 20231127133428.png",
+    "Study/5.Semester/Images/Pasted image 20231127132931.png",
+    "Study/5.Semester/Images/Pasted image 20231127132614.png",
+    "Study/5.Semester/Images/Pasted image 20231127123532.png",
+    "DIY/LED Controller.md",
+    "DIY/Images/Pasted image 20231123211726.png",
+    "DIY/Bal. Headphone Protector BOM.md",
+    "To Do.md",
+    "DIY/Projects.md",
+    "DIY/HV T-Reg.md",
+    "DIY/Torpedo III/Torpedo iii Build.md",
+    "DIY/GRHV/GRHV Left BOM.md",
+    "DIY/GRHV/Schematic.md",
+    "DIY/GRHV/GRHV Right BOM.md",
+    "DIY/Torpedo III/Output CCS.md",
+    "DIY/GRHV",
+    "DIY/1. Index - DIY.md",
+    "DIY/The Wolverine/The Wolverine Amp.md",
+    "DIY/KGSSHV Carbon/Carbon BOM.md",
+    "DIY/GoldenReference PSU/GRLV.md",
+    "DIY/CFA3/CFA3 BOM.md",
+    "DIY/CFA3/CFA3 Amplifier.md",
+    "DIY/Bottlehead Crack/Notes.md",
     "README.md",
-    "Study/5.Semester/Images/Pasted image 20231026113336.png",
-    "Study/5.Semester/Images/Pasted image 20231026142530.png",
-    "Study/5.Semester/Images/Pasted image 20231026114055.png",
-    "Study/5.Semester/ETMBED/DesignOpgave/BFP420 Amp.md",
-    "Study/5.Semester/Images/Pasted image 20231029203328.png",
-    "Study/5.Semester/Images/Pasted image 20231029203400.png",
+    "[.md",
+    "Study/5.Semester/ETMBED/Transmissionslinjer.md",
+    "Study/5.Semester/ETMBED/Propagation, Impedance and Reflection.md",
+    "Study/5.Semester/ETMBED/Mikrostrip.md",
+    "Study/5.Semester/ETMBED/Impedance Transformation.md",
     "Pasted image 20231029203400.png~RF5cd16a7c.TMP",
-    "Study/5.Semester/ETMBED/Microwave Amplifiers/Amplifier Basics.md",
-    "Study/5.Semester/ETMBED/Microwave Amplifiers/Stability.md",
     "Study/5.Semester/ETMBED/DesignOpgave",
-    "Study/5.Semester/Images/Pasted image 20231026083050.png",
-    "Study/5.Semester/ETMBED/Smith Chart Matching.md",
-    "Study/5.Semester/Images/Pasted image 20231026110632.png",
-    "Study/5.Semester/Images/Pasted image 20231026110619.png",
-    "Study/5.Semester/Images/Pasted image 20231026105529.png",
-    "Study/5.Semester/Images/Pasted image 20231026104946.png",
-    "Study/5.Semester/Integrated Circuits/Common Source.md",
-    "Study/5.Semester/Integrated Circuits/Op-Amp.md",
-    "Study/5.Semester/Integrated Circuits/Small Signal Models.md",
-    "Study/6.Semester/Bsc/ADC.md",
-    "Study/6.Semester/Bsc/SAR_Converters.md",
-    "Study/6.Semester/Bsc/AD.md",
     "Study/6.Semester/imgs",
     "Study/6.Semester/Bsc",
     "Study/6.Semester",
-    "Study/5.Semester/ETMBED/Smith Chart.md",
-    "Study/5.Semester/ETMBED/Propagation, Impedance and Reflection.md",
-    "DIY/The Wolverine/The Wolverine Amp.md",
-    "Study/5.Semester/ETMBED/Impedance Transformation.md",
-    "Study/5.Semester/ETMBED/Transmissionslinjer.md",
     "Study/5.Semester/ETMBED/Microwave Amplifiers",
-    "DIY/The Wolverine/Transistor Choice.md",
-    "Study/5.Semester/Semiconductor Physics and Devices/Parameters.md",
     "Study/5.Semester/Semiconductor Physics and Devices",
-    "Study/5.Semester/ETMBED/Mikrostrip.md",
-    "Study/5.Semester/Integrated Circuits",
-    "To Do.md",
-    "DIY/Torpedo III/Output CCS.md",
-    "Study/5.Semester/ETMBED/Opgaver/Opgave 1.md",
-    "DIY/GoldenReference PSU/GRLV.md",
-    "Study/5. Semester/ETMBED/Opgaver/Untitled",
-    "Study/5.Semester/ETMBED/Opgaver",
-    "DIY/CFA3/CFA3 Amplifier.md",
-    "DIY/Bottlehead Crack/Notes.md"
+    "Study/5.Semester/Integrated Circuits"
   ]
 }

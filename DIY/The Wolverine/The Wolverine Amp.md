@@ -47,3 +47,29 @@ Modushop 5U probably best suited.
 Definitely need speaker protection!
 
 Guardian 86?
+
+## Component Selection
+---
+Notes for component selection.
+
+### Input Section
+---
+C1: 10u for 10k input impedance
+C2: 680p for 10k input impedance
+C4: 100p for MJE drivers
+C5: 470p for MJE drivers
+C6,7,8,lift: Measure to find tight tolerance
+C9: 100u for 10k input impedance
+
+R1, 9: 383R for 10k input impedance
+R2: 10.5k for 10k input impedance
+R21a, 21b: 5.23k for 10k input impedance
+R6: 43k for 71V rails
+R7,8: Measure to match within 1%
+R15: 18k for 71V rails
+R17: 13k for 71V rails
+R20: 390R for MJE drivers
+R23, 24: 33k for 71V rails
+
+
+

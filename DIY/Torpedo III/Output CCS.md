@@ -1,5 +1,8 @@
 # Output CCS
 ---
+CCS To keep transistors in best operating region,
+
+
 The output CCS's replace R19/21 and R20/22. They consist of a depletion-mode MOSFET cascoded with a LM334 constant current source, as described by Walt Jung:
 
 https://audioxpress.com/article/Sources-101-Audio-Current-Regulator-Tests-for-High-Performance-Full-Article
