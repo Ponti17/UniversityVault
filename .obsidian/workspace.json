@@ -11,15 +11,24 @@
             "id": "983dae20809331b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
-                "mode": "source",
-                "source": false
+                "file": "Study/5.Semester/Images/Pasted image 20231127150535.png"
+              }
+            }
+          },
+          {
+            "id": "63bbf4e407f37125",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Study/5.Semester/Images/Pasted image 20231127150536.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 334.5
   },
   "right": {
     "id": "d5bc427c86660eeb",
@@ -94,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md"
+                "file": "Personal.md"
               }
             }
           },
@@ -175,11 +181,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "983dae20809331b2",
+  "active": "4de3e0f3fb4ddd90",
   "lastOpenFiles": [
-    "Study/5.Semester/Images/Pasted image 20231127122827.png",
-    "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
+    "Private/New Text Document.txt",
+    "Private",
+    "Study/5.Semester/Images/Pasted image 20231127150536.png",
+    "Personal.md",
+    "Study/5.Semester/Images/Pasted image 20231127150535.png",
+    "Study/3.Semester/Digital Electronics/RC Model for Delay.md",
+    "Study/3.Semester/Digital Electronics/Elmore Delay Model.md",
+    "Study/3.Semester/Digital Electronics/CMOS Delay.md",
+    "Study/3.Semester/Digital Electronics/CMOS Basics.md",
+    "Study/3.Semester/Digital Electronics/1. Index - Digital Electronics.md",
     "Study/5.Semester/Integrated Circuits/Feedback/Feedback General.md",
+    "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
+    "Private/To Do.md",
+    "Study/5.Semester/Images/Pasted image 20231127122827.png",
     "Study/5.Semester/Integrated Circuits/Feedback",
     "Study/5.Semester/Images/Pasted image 20231127145339.png",
     "Study/5.Semester/Images/Pasted image 20231127143931.png",
@@ -188,11 +205,8 @@
     "Study/5.Semester/Images/Pasted image 20231127133428.png",
     "Study/5.Semester/Images/Pasted image 20231127132931.png",
     "Study/5.Semester/Images/Pasted image 20231127132614.png",
-    "Study/5.Semester/Images/Pasted image 20231127123532.png",
     "DIY/LED Controller.md",
-    "DIY/Images/Pasted image 20231123211726.png",
     "DIY/Bal. Headphone Protector BOM.md",
-    "To Do.md",
     "DIY/Projects.md",
     "DIY/HV T-Reg.md",
     "DIY/Torpedo III/Torpedo iii Build.md",
@@ -208,19 +222,12 @@
     "DIY/CFA3/CFA3 BOM.md",
     "DIY/CFA3/CFA3 Amplifier.md",
     "DIY/Bottlehead Crack/Notes.md",
-    "README.md",
-    "[.md",
-    "Study/5.Semester/ETMBED/Transmissionslinjer.md",
-    "Study/5.Semester/ETMBED/Propagation, Impedance and Reflection.md",
-    "Study/5.Semester/ETMBED/Mikrostrip.md",
-    "Study/5.Semester/ETMBED/Impedance Transformation.md",
     "Pasted image 20231029203400.png~RF5cd16a7c.TMP",
     "Study/5.Semester/ETMBED/DesignOpgave",
     "Study/6.Semester/imgs",
     "Study/6.Semester/Bsc",
     "Study/6.Semester",
     "Study/5.Semester/ETMBED/Microwave Amplifiers",
-    "Study/5.Semester/Semiconductor Physics and Devices",
-    "Study/5.Semester/Integrated Circuits"
+    "Study/5.Semester/Semiconductor Physics and Devices"
   ]
 }

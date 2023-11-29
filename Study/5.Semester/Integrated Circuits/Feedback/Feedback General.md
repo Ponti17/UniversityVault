@@ -62,7 +62,7 @@ We start by assuming that a feedforward amplifier has a one-pole transfer functi
 $$ A(s) = \frac{A_0}{1 + \frac{s}{\omega_0}} $$
 Where $A_0$ denotes the low-frequency gain and $\omega_0$ is the 3-dB bandwidth. The transfer function of the closed-loop system
 $$ \frac{Y}{X}(s) = \frac{ \frac{A_0}{1 + \frac{s}{\omega_0}} }{1 + \beta \frac{A_0}{1 + \frac{s}{\omega_0}}} = \frac{A_0}{1 + \beta A_0 + \frac{s}{\omega_0}} = \frac{ \frac{A_0}{1 + \beta A_0} }{1 + \frac{s}{(1 + \beta A_0)\omega_0}} $$
-The numerator is simply the closed-loop gain at low frequencies. The denominator reveals a pole at $(1 + \beta A_0)\omega_0$. Thus, the 3-dB bandwidth has increased by a factor of $1 + \beta A_0$, albeit at the cost of a proportional reduction in the gain. 
+	The numerator is simply the closed-loop gain at low frequencies. The denominator reveals a pole at $(1 + \beta A_0)\omega_0$. Thus, the 3-dB bandwidth has increased by a factor of $1 + \beta A_0$, albeit at the cost of a proportional reduction in the gain. 
 
 ### Nonlinearity Reduction
 ---
