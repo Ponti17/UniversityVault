@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b1c6e7c4b0e07c98",
+        "id": "52b3b2607660e128",
         "type": "tabs",
         "children": [
           {
-            "id": "fb814885b4e98786",
+            "id": "c3062b2b6354aeb9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Study/5.Semester/Images/Pasted image 20231221092954.png"
+                "file": "Study/5.Semester/Integrated Circuits/Final Project.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5bc427c86660eeb",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/5.Semester/Images/Pasted image 20231221092954.png",
+                "file": "Study/5.Semester/Integrated Circuits/Final Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/5.Semester/Images/Pasted image 20231221092954.png",
+                "file": "Study/5.Semester/Integrated Circuits/Final Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/5.Semester/Images/Pasted image 20231221092954.png"
+                "file": "Study/5.Semester/Integrated Circuits/Final Project.md"
               }
             }
           },
@@ -172,53 +175,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4de3e0f3fb4ddd90",
+  "active": "c3062b2b6354aeb9",
   "lastOpenFiles": [
-    "Study/5.Semester/ETMBED/Exam/(3) Bredbandsforsterker/Broadband Amplifier.md",
-    "Study/5.Semester/ETMBED/Microwave Amplifiers/Amplifier Basics.md",
-    "Study/5.Semester/ETMBED/Propagation, Impedance and Reflection.md",
-    "Study/5.Semester/ETMBED/Smith Chart Matching.md",
-    "Study/5.Semester/ETMBED/Microwave Amplifiers/Bilateral Specific Gain.md",
-    "Study/5.Semester/ETMBED/Transmissionslinjer.md",
-    "Study/5.Semester/ETMBED/Smith Chart.md",
-    "Study/5.Semester/ETMBED/Mikrostrip.md",
-    "Study/5.Semester/ETMBED/Impedance Transformation.md",
-    "Study/5.Semester/ETMBED/Opgaver/Opgave 1.md",
-    "Study/5.Semester/ETMBED/Exam/(1) DesignOpgave/Designopgave.md",
-    "Study/5.Semester/ETMBED/Exam/(6) Mikrostrip",
-    "Study/5.Semester/ETMBED/Exam/(5) Forsterker",
-    "Study/5.Semester/ETMBED/Exam/(4) Lavstojsforsterker",
-    "Study/5.Semester/ETMBED/Exam/(2) Mikrobolgeoscillator/Microwave Oscillator.md",
-    "Study/5.Semester/ETMBED/Exam/(3) Bredbandsforsterker",
-    "Study/5.Semester/Images/Pasted image 20231221113133.png",
-    "Study/5.Semester/Images/Pasted image 20231221095638.png",
-    "Study/5.Semester/Images/Pasted image 20231221094639.png",
-    "Study/5.Semester/Images/Pasted image 20231221092954.png",
-    "Study/5.Semester/Images/Pasted image 20231218093009.png",
-    "Study/5.Semester/Images/Pasted image 20231218100059.png",
-    "Study/5.Semester/Statistical Learning and Machine Learning/Principal Component Analysis.md",
-    "Study/5.Semester/Images/Pasted image 20231218095351.png",
-    "Study/5.Semester/Images/Pasted image 20231218093814.png",
-    "Study/5.Semester/Images/Pasted image 20231218093520.png",
-    "Study/5.Semester/Images/Pasted image 20231218093309.png",
-    "Study/5.Semester/ETMBED/Microwave Amplifiers/Stability.md",
-    "Study/5.Semester/ETMBED/Exam/(2) Mikrobolgeoscillator",
-    "Study/5.Semester/ETMBED/Exam/(1) DesignOpgave",
-    "Study/5.Semester/ETMBED/Exam",
-    "Study/5.Semester/ETMBED/Exam.md",
-    "Study/5.Semester/Statistical Learning and Machine Learning/Classification.md",
-    "Study/5.Semester/Statistical Learning and Machine Learning/Whitening.md",
-    "Study/5.Semester/Statistical Learning and Machine Learning/Multivariate Gaussian.md",
-    "Study/5.Semester/Statistical Learning and Machine Learning/Gaussian Distribution.md",
-    "Study/5.Semester/Statistical Learning and Machine Learning/Bayesian Probabilities.md",
-    "Study/5.Semester/Statistical Learning and Machine Learning/Expectations and Covariances.md",
-    "Study/5.Semester/Statistical Learning and Machine Learning/Probability Densities.md",
+    "DIY/The Wolverine/Wiring.md",
+    "Study/5.Semester/Images/Pasted image 20231130081553.png",
+    "Pasted image 20231130081553.png",
+    "Study/5.Semester/Integrated Circuits/Op-Amp.md",
+    "Study/5.Semester/Integrated Circuits/Final Project.md",
+    "Private/Daily Notes.md",
+    "Private/To Do.md",
     "README.md",
-    "Study/5.Semester/Statistical Learning and Machine Learning/Basic Probability Theory.md",
-    "Study/5.Semester/Integrated Circuits/Common Source.md",
-    "Study/5.Semester/Integrated Circuits/Linear Delay Model.md",
+    "Personal.md",
     "Private/New Text Document.txt",
     "Private",
-    "Study/5.Semester/Integrated Circuits/Feedback"
+    "Study/5.Semester/Images/Pasted image 20231127150536.png",
+    "Study/5.Semester/Images/Pasted image 20231127150535.png",
+    "Study/3.Semester/Digital Electronics/RC Model for Delay.md",
+    "Study/3.Semester/Digital Electronics/Elmore Delay Model.md",
+    "Study/3.Semester/Digital Electronics/CMOS Delay.md",
+    "Study/3.Semester/Digital Electronics/CMOS Basics.md",
+    "Study/3.Semester/Digital Electronics/1. Index - Digital Electronics.md",
+    "Study/5.Semester/Integrated Circuits/Feedback/Feedback General.md",
+    "Study/5.Semester/Integrated Circuits/Feedback/Feedback Topologies.md",
+    "Study/5.Semester/Images/Pasted image 20231127122827.png",
+    "Study/5.Semester/Integrated Circuits/Feedback",
+    "Study/5.Semester/Images/Pasted image 20231127145339.png",
+    "Study/5.Semester/Images/Pasted image 20231127143931.png",
+    "Study/5.Semester/Images/Pasted image 20231127143713.png",
+    "Study/5.Semester/Images/Pasted image 20231127143515.png",
+    "Study/5.Semester/Images/Pasted image 20231127133428.png",
+    "DIY/LED Controller.md",
+    "DIY/Bal. Headphone Protector BOM.md",
+    "DIY/Projects.md",
+    "DIY/HV T-Reg.md",
+    "DIY/Torpedo III/Torpedo iii Build.md",
+    "DIY/GRHV/GRHV Left BOM.md",
+    "DIY/GRHV/Schematic.md",
+    "DIY/GRHV/GRHV Right BOM.md",
+    "DIY/Torpedo III/Output CCS.md",
+    "DIY/GRHV",
+    "DIY/1. Index - DIY.md",
+    "DIY/The Wolverine/The Wolverine Amp.md",
+    "DIY/KGSSHV Carbon/Carbon BOM.md",
+    "Pasted image 20231029203400.png~RF5cd16a7c.TMP",
+    "Study/5.Semester/ETMBED/DesignOpgave",
+    "Study/6.Semester/imgs",
+    "Study/6.Semester/Bsc",
+    "Study/6.Semester",
+    "Study/5.Semester/ETMBED/Microwave Amplifiers"
   ]
 }

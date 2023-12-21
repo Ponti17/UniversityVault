@@ -1,3 +1,6 @@
 # Read Me
 ---
-This Repo contains all my EE notes.
+This repo contains:
+- Notes from my EE Bsc.
+- Notes for various DIY projects.
+- Notes from extracurricular courses.

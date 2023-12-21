@@ -52,6 +52,8 @@ Guardian 86?
 ---
 Notes for component selection.
 
+IEC: FN1394-10-05-11
+
 ### Input Section
 ---
 C1: 10u for 10k input impedance
